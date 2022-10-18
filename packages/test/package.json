@@ -1,6 +1,6 @@
 {
   "name": "@kye/components",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "npm私有源第一个包",
   "main": "index.js",
   "scripts": {

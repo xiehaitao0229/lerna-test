@@ -14,5 +14,6 @@
   "dependencies": {
     "@kye/components": "^1.0.6",
     "axios": "^1.1.3"
-  }
+  },
+  "gitHead": "3ebfb6220e1a8d2abff0bed8c5bf30e45dc69ef4"
 }

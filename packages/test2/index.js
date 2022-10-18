@@ -1,7 +1,7 @@
 const components = require('@kye/components')
 const axios = require("axios")
 
-console.log(22)
+console.log(2222)
 export {
     components,
     axios

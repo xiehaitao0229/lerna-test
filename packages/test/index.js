@@ -10,7 +10,7 @@ function del(){
     console.log(333)
 }
 
-console.log(1111)
+console.log(111111)
 
 export {
     xxx,

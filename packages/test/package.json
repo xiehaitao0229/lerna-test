@@ -1,0 +1,17 @@
+{
+  "name": "@kye/components",
+  "version": "1.0.5",
+  "description": "npm私有源第一个包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "components"
+  ],
+  "author": "xiehaitao",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

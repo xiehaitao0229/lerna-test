@@ -13,7 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "@kye/components": "^1.0.7",
-    "axios": "^1.1.3"
+    "axios": "^1.1.3",
+    "vue": "^3.2.41"
   },
   "gitHead": "3ebfb6220e1a8d2abff0bed8c5bf30e45dc69ef4"
 }

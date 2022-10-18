@@ -1,6 +1,6 @@
 {
   "name": "kye",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@kye/components2": "^1.0.2"
+    "@kye/components2": "^1.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",

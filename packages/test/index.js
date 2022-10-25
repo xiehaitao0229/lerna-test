@@ -3,7 +3,7 @@ const lodash = require('lodash');
 const xxx=1;
 
 function add(){
-    console.log(222)
+    console.log(3333)
 }
 
 function del(){

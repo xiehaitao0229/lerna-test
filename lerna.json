@@ -3,7 +3,7 @@
   "useNx": true,
   "useWorkspaces": true,
   "version": "independent",
-  "npmClient": "npm",
+  "npmClient": "yarn",
   "publishConfig": {
     "registry": "http://localhost:4873/"
   },
